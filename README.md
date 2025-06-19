@@ -46,9 +46,6 @@ Na aula do dia 04/04, visitamos a Incubadora Social / Hub de Inovação Social, 
 O Hub se destaca como um ambiente de inovação que promove o desenvolvimento social e profissional através de seus diversos programas.
  
 #### 07/04 a 11/04:
-
-## Definição do Projeto
-
 Nessa semana, realizamos a divisão dos projetos, com a professora organizando os alunos em três grupos:
 
 - **Jardim Botânico**
