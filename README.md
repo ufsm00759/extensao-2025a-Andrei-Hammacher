@@ -97,6 +97,37 @@ Nesta semana, realizamos uma reunião com a professora para organizar o andament
 - Reunião com cada subgrupo responsável por diferentes módulos do projeto
 - Definição clara de responsabilidades e prazos para cada equipe
 
-Como proposta da professora para materializar nosso planejamento, elaboramos:
+Como proposta da professora para materializar nosso planejamento, eu e meu grupo elaboramos:
 - Diagrama Inicial contendo
-- Projeções Futuras incluindo
+- Projeções futuras
+
+---
+### Maio 
+#### 28/05 a 02/05: 
+Ao longo dessa semana desenvolvemos o que foi proposto na semana passada, e apresentamos os resultados à professora em uma reunião, também discutimos os próximos passos e futuros avanços para o projeto.
+
+#### 05/05 a 09/05: 
+Nesta semana, realizamos uma nova reunião para apresentar o progresso do nosso trabalho. Eu e meu grupo avançamos com os primeiros códigos para a automação dos agendamentos do Jardim Botânico.
+
+#### 12/05 a 16/05: 
+Nova reunião realizada, fizemos adaptações nos códigos e correções de erros.
+
+#### 19/05 a 23/05: 
+Novos avanços nos códigos de agendamentos e adaptações necessárias.
+
+#### 26/05 a 30/05: 
+Reunião com a professora, discussão sobre melhora nos códigos e problemas no calendário do google agenda.
+
+---
+### Junho
+#### 02/06 a 06/06: 
+Marcada uma nova reunião no Jardim Botânico para a próxima semana, para mostrar o que foi desenvolvido até o momento, além da reunião com a professora.
+
+#### 08/06 a 13/06: 
+Reunião presencialmente no Jardim Botânico com o pessoal do Jardim, apresentação do que foi desenvolvido, e novas demandas, cancelar o agendamento durante o período de férias, menu para alterar o Google Sheets onde está os bolsistas e seus horários, além de testes por partes dos códigos para uma futura instalação da automação no Jardim.
+
+#### 16/06 a 18/06: 
+Necessidade de fazer uma reunião no Google Meet com a professora, com objetivo de melhorar os códigos, e desenvolver o proposto na reunião no Jardim Botânico.
+
+#### 23/06 a 27/06:  
+Última semana da disciplina, teve uma reunião com todos os grupos, além de uma rápida apresentação do que cada subgrupo desenvolveu e aprendeu.
