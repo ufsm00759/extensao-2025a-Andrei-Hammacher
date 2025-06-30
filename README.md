@@ -131,3 +131,56 @@ Necessidade de fazer uma reunião no Google Meet com a professora, com objetivo 
 
 #### 23/06 a 27/06:  
 Última semana da disciplina, teve uma reunião com todos os grupos, além de uma rápida apresentação do que cada subgrupo desenvolveu e aprendeu.
+
+---
+## Relatório Final
+### Equipe: Andrei, Thalisson e Rafael
+
+### 1. Resumo do Projeto
+Este projeto, desenvolvido para a disciplina de Práticas Extensionistas na Educação em Computação, teve como principal finalidade atender a uma demanda específica apresentada por Simone, diretora do Jardim Botânico da UFSM. Nossa equipe assumiu a responsabilidade de automatizar o sistema de agendamentos do local. Por meio de reuniões com a professora Andrea, foi possível compreender em profundidade as necessidades e realizar as adaptações necessárias para o desenvolvimento do projeto.
+
+### 2. O Que Entregamos
+- Automatização dos Agendamentos:
+	- Utilização do Google Calendar para confirmação de horários disponíveis de visitação.
+	- Implementação de avisos automáticos para visitantes e monitores, otimizando a comunicação e a organização.
+
+- Interface do Google Sheets:
+	- Em processo de desenvolvimento de uma interface visual no Google Sheets para o gerenciamento da equipe do Jardim Botânico, com foco na visualização de quais monitores estão disponíveis e em quais horários.
+    
+
+### 3. Experiência Individual
+Neste projeto obtive diversos aprendizados dentre eles: 
+
+- Experiência em equipe, colaborando de forma eficaz com os demais membros.
+- Entrega de um projeto real com impacto prático, diferentemente de um trabalho meramente acadêmico.
+- Aprendizado e experiência com novas ferramentas e linguagens de programação:
+	- Google Apps Script
+	- Lucid.app (para diagramas ou fluxogramas)
+	- JavaScript
+	- Vue.js
+- Otimização do trabalho e gestão de tempo, visto que o período de entrega era curto e demandava eficiência.
+- Experiência de impactar de forma real e positiva as operações do Jardim Botânico.
+
+### 5. Com Quem Interagimos?
+- Professora Andrea.
+- Equipe do Jardim Botânico.
+
+### 6. Que bom
+-   **Primeiro Projeto Real:** Ter a oportunidade de participar do meu primeiro projeto real, podendo compartilhar aprendizados com a equipe e avaliar as melhores ferramentas para solucionar a demanda do Jardim Botânico.
+
+-   **Expansão de Networking:** O contato com pessoas de fora do Centro de Tecnologia (CT), o que expandiu a perspectiva além do ambiente de formação.
+   
+-   **Orientação Qualificada:** Contar com a professora Andrea, uma excelente profissional, que nos forneceu conselhos valiosos, auxiliou no andamento do projeto e buscou soluções eficazes para os problemas enfrentados.
+
+### 7. Que pena
+-  **Espaço de tempo curto:** Houve um curto espaço de tempo entre o primeiro contato com as demandas do Jardim Botânico e o fim do semestre, o que limitou o tempo disponível para desenvolvimento.
+    
+-   **Conhecimento limitado das ferramentas:** Enfrentamos o desafio do pouco conhecimento prévio sobre as ferramentas e linguagens necessárias para a realização do projeto, o que exigiu um esforço adicional em aprendizado.
+
+### 8. Que tal
+- Seguir com melhoras no sistema desenvolvido, além de realizar mais testes e feedback
+
+### 9. Conclusão
+Aplicar os conhecimentos da computação para solucionar as demandas do Jardim Botânico foi uma excelente oportunidade para minha equipe e eu. Ganhamos novas experiências fora da sala de aula, refinamos nossos conhecimentos e aprendemos a lidar com um projeto real.
+Neste projeto, adquirimos diversos conhecimentos, desde o uso de novas ferramentas (como Google Apps Script, JavaScript e Vue.js) até conceitos da área que desconhecíamos. Mesmo com o curto prazo, conseguimos entregar um sistema funcional de agendamentos automáticos para o Jardim.
+Este projeto não apenas beneficiou o Jardim Botânico, mas também nos proporcionou uma experiência prática inestimável.
